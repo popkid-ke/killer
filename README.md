@@ -1,58 +1,65 @@
-# Zokou-2.0
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## POPKID-MD-V4 ♻️ 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID+MD+V4;A+WHATSAPP+BOT;CREATED+BY+POPKID+TECH" alt="Typing SVG" /></a>
+  </p>
+<div align="center">
 
+| [![Popkid KE](https://telegra.ph/file/cfa5d02b014d15e15ed3c.jpg?lenght=50width=50)](https://github.com/popkid-ke)|
+|----|
 
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=POPKID-MD-V4+Is+Safe+on+Heroku" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID TECH-red.svg?style=for-the-badge&logo=github"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Popkid-ke?label=Followers&style=social"></a>
+<a href="https://github.com/popkid-ke/killer-Bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/killer-Bot?&style=social"></a>
+<a href="https://github.com/popkid-ke/killer-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/popkid-ke/killer-Bot?style=social"></a>
+<a href="https://github.com/popkid-ke/killer-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/popkid-ke/killer-Bot?label=Watching&style=social"></a>
 
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+  ## MUST FOLLOW OUR OFFICIAL CHANNEL
+<a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## Key Features
+## SETUP FOR POPKID MD V4
+#### SETUP 
 
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/popkid-ke/killer/fork) It***
 
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
+2.`Get Session ID` by 
 
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
+[`SCANING QR`](https://beltah-pairing-cd08d1694a1f.herokuapp.com/qr) 
+    
+[`PAIRING CODE`](https://beltah-pairing-cd08d1694a1f.herokuapp.com/pair)
 
-- **Text to Img:** The best logos have been selected for your convenience.
+## 3.DEPLOY BELTAH-MD-V7
+(No BAN. 100% safe) 
+<h1 align="center">
+ 
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/popkid-ke/killer&template=https://github.com/popkid-ke/killer.git)***
 
-## Fun Features
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
+ ## CONTACT DEVELOPER ON WHATSAPP 
+ 
+<a href="https://wa.me/254111385747" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Beltah Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a> 
+</p>
 
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
+## CONTRIBUTIONS
 
-## Get Zokou
-
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
-
-2. Obtain a bot session: 
-
-   [Session-1](https://zkscan.onrender.com)  <br>
-   [Session-2](https://zokouscan.onrender.com) <br>
-
-
-3. Deploy
-   - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
-
-## Contributions
-
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
-
-   thinks to these persons ;
-
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
-
-   **CrazyPrice** who hosted a second website for the session_id;
+Contributions to KILLER-BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
 ## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot KILLER BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
-
-## Developers:
-
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
-
+✨✨ POPKID-BOT TO THE WORLD AND BEYOND ❤️
