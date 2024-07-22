@@ -15,9 +15,9 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Beltah-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
+<a href="https://github.com/popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
 <a href="https://github.com/popkid-ke/killer/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
-<a href="https://github.com/Beltahtech/Beltah-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahtech/Beltah-Bot?style=social"></a>
+<a href="https://github.com/popkid-ke/popkid-ke/network/members"><img title="Forks" src="https://img.shields.io/github/forks/popkid-ke/popkid-ke?style=social"></a>
 <a href="https://github.com/Beltatech/Beltah-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahtech/Beltah-Bot?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
