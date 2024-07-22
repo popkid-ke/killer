@@ -35,9 +35,9 @@
 
 2.`Get Session ID` by 
 
-[`SCANING QR`](https://beltah-pairing-cd08d1694a1f.herokuapp.com/qr) 
+[`SCANING QR`](https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/qr) 
     
-[`PAIRING CODE`](https://beltah-pairing-cd08d1694a1f.herokuapp.com/pair)
+[`PAIRING CODE`](https://popkidbotnewsession-cb7d8ff6f26a.herokuapp.com/pair)
 
 ## 3.DEPLOY POPKID-MD-V4
 (No BAN. 100% safe) 
