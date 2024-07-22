@@ -1,11 +1,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## BELTAH-MD-V7 ♻️ 
+## POPKID-MD-V4 ♻️ 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BELTAH+MD+V7;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=POPKID+MD+V4;A+WHATSAPP+BOT;CREATED+BY+POPKID+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahtech)|
+| [![Popkid KE](https://telegra.ph/file/cfa5d02b014d15e15ed3c.jpg?lenght=50width=50)](https://github.com/popkid-ke)|
 |----|
 
 <p align="center">
@@ -18,7 +18,7 @@
 <a href="https://github.com/popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
 <a href="https://github.com/popkid-ke/killer/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/popkid-ke?&style=social"></a>
 <a href="https://github.com/popkid-ke/popkid-ke/network/members"><img title="Forks" src="https://img.shields.io/github/forks/popkid-ke/popkid-ke?style=social"></a>
-<a href="https://github.com/Beltatech/Beltah-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahtech/Beltah-Bot?label=Watching&style=social"></a>
+<a href="https://github.com/popkid-ke/popkid-ke/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/popkid-ke/popkid-ke?label=Watching&style=social"></a>
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -28,10 +28,10 @@
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## SETUP FOR BELTAH MD V7
+## SETUP FOR POPKID MD V4
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Devbeltah/V7-Beltah/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/popkid-ke/killer/fork) It***
 
 2.`Get Session ID` by 
 
@@ -39,27 +39,27 @@
     
 [`PAIRING CODE`](https://beltah-pairing-cd08d1694a1f.herokuapp.com/pair)
 
-## 3.DEPLOY BELTAH-MD-V7
+## 3.DEPLOY POPKID-MD-V4
 (No BAN. 100% safe) 
 <h1 align="center">
  
- ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Devbeltah/V7-Beltah&template=https://github.com/Devbeltah/V7-Beltah.git)***
+ ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/popkid-ke/killer&template=https://github.com/popkid-ke/killer.git)***
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  ## CONTACT DEVELOPER ON WHATSAPP 
  
-<a href="https://wa.me/254114141192" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Beltah Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254111385747" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ POPKID Tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a> 
 </p>
 
 ## CONTRIBUTIONS
 
-Contributions to BELTAH-BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to POPKID-BOT are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
 ## License
 
-The WhatsApp Bot BELTAH BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot POPKID BOT is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-♻️ BELTAH-BOT TO THE WORLD AND BEYOND ♻️
+♻️ POPKID-BOT TO THE WORLD AND BEYOND ♻️
