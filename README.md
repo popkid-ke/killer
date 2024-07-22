@@ -16,7 +16,7 @@
 <p/>
 <p align="center">
 <a href="https://github.com/popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Popkid-ke?label=Followers&style=social"></a>
-<a href="https://github.com/popkid-ke/killer/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/killer-Bot?&style=social"></a>
+<a href="https://github.com/popkid-ke/killer/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/popkid-ke/killer?&style=social"></a>
 <a href="https://github.com/popkid-ke/killer/network/members"><img title="Forks" src="https://img.shields.io/github/forks/popkid-ke/killer-Bot?style=social"></a>
 <a href="https://github.com/popkid-ke/killer/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/popkid-ke/killer?label=Watching&style=social"></a>
 
