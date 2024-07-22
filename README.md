@@ -9,10 +9,10 @@
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-MD-V7+Is+Safe+on+Heroku" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=POPKID-MD-V4+Is+Safe+on+Heroku" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-POPKID TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/popkid-ke? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/popkid-ke?label=Followers&style=social"></a>
